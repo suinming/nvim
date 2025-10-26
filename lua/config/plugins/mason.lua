@@ -13,6 +13,7 @@ return {
 				"pyright",
 				"ruff",
 				"lua_ls",
+				"jdtls",
 			},
 		},
 		dependencies = {
